@@ -28,5 +28,5 @@
     CL <- as.double(readline(prompt = "Enter CL: "))
   }
   
-  t.test(x = x, y = y, alternative = "less", paired = TRUE, conf.level = CL)
+  t.test(x = x, y = y, alternative = "greater", paired = TRUE, conf.level = CL)
 }
