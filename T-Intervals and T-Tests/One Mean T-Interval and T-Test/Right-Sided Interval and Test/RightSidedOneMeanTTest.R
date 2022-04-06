@@ -20,5 +20,5 @@
     CL <- as.double(readline(prompt = "Enter CL: "))
   }
   
-  t.test(x = x, alternative = "greater", mu = mux0, conf.level = CL)
+  t.test(x = x, alternative = "less", mu = mux0, conf.level = CL)
 }
