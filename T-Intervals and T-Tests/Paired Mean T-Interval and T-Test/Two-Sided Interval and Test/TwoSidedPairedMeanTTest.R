@@ -3,23 +3,18 @@
 # Date Created: 4/6/2022
 
 {
-  nx <- as.integer(readline(prompt = "Enter nx: "))
-  while (nx <= 0) {
-    nx <- as.integer(readline(prompt = "Enter nx: "))
+  n <- as.integer(readline(prompt = "Enter n: "))
+  while (n <= 0) {
+    n <- as.integer(readline(prompt = "Enter n: "))
   }
   
   x <- c()
-  for (i in 1:nx) {
+  for (i in 1:n) {
     x[i] <- as.double(readline(prompt = paste("Enter x", as.character(i), " : ", sep = "")))
   }
   
-  ny <- as.integer(readline(prompt = "Enter ny: "))
-  while (ny <= 0) {
-    ny <- as.integer(readline(prompt = "Enter ny: "))
-  }
-  
   y <- c()
-  for (i in 1:ny) {
+  for (i in 1:n) {
     y[i] <- as.double(readline(prompt = paste("Enter y", as.character(i), " : ", sep = "")))
   }
   
