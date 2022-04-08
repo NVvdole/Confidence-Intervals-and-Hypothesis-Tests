@@ -23,5 +23,5 @@
     CL <- as.double(readline(prompt = "Enter CL: "))
   }
   
-  cor.test(x = x, y = y, alternative = "greater", method = "pearson", conf.level = CL)
+  cor.test(x = x, y = y, alternative = "less", method = "pearson", conf.level = CL)
 }
