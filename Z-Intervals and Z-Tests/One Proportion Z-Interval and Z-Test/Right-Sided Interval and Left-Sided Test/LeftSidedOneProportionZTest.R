@@ -23,5 +23,5 @@
     CL <- as.double(readline(prompt = "Enter CL: "))
   }
   
-  prop.test(x = x, n = nx, p = px0, alternative = "greater", conf.level = CL)
+  prop.test(x = x, n = nx, p = px0, alternative = "less", conf.level = CL)
 }
