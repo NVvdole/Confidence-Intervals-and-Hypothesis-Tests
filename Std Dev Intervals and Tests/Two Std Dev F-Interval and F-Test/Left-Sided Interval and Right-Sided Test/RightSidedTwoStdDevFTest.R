@@ -1,4 +1,4 @@
-# File Name: LeftSidedTwoStdDevFTest.R
+# File Name: RightSidedTwoStdDevFTest.R
 # Author: Verginia Mae Dole
 # Date Created: 4/6/2022
 
