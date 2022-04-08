@@ -1,4 +1,4 @@
-# File Name: LeftSidedOneStdDevChiSquareTest.R
+# File Name: RightSidedOneStdDevChiSquareTest.R
 # Author: Verginia Mae Dole
 # Date Created: 4/6/2022
 
