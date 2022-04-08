@@ -1,4 +1,4 @@
-# File Name: LeftSidedOneMeanTTest.R
+# File Name: RightSidedOneMeanTTest.R
 # Author: Verginia Mae Dole
 # Date Created: 4/6/2022
 
