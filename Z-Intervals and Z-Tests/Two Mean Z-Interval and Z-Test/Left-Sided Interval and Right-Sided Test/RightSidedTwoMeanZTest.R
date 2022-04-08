@@ -40,5 +40,5 @@ library(BSDA)
     CL <- as.double(readline(prompt = "Enter CL: "))
   }
   
-  z.test(x = x, y = y, alternative = "less", sigma.x = sigx, sigma.y = sigy, conf.level = CL)
+  z.test(x = x, y = y, alternative = "greater", sigma.x = sigx, sigma.y = sigy, conf.level = CL)
 }
