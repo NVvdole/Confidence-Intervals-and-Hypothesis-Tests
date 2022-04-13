@@ -1,0 +1,38 @@
+Enter nx: 12
+Enter x1: 13
+Enter x2: 15
+Enter x3: 15
+Enter x4: 16
+Enter x5: 16
+Enter x6: 16
+Enter x7: 17
+Enter x8: 18
+Enter x9: 18
+Enter x10: 19
+Enter x11: 20
+Enter x12: 21
+Enter ny: 12
+Enter y1: 15
+Enter y2: 15
+Enter y3: 16
+Enter y4: 18
+Enter y5: 19
+Enter y6: 19
+Enter y7: 19
+Enter y8: 20
+Enter y9: 21
+Enter y10: 23
+Enter y11: 23
+Enter y12: 24
+Enter CL: 0.95
+
+	F test to compare two variances
+
+data:  x and y
+F = 0.56494, num df = 11, denom df = 11, p-value = 0.8211
+alternative hypothesis: true ratio of variances is greater than 1
+95 percent confidence interval:
+ 0.2004787       Inf
+sample estimates:
+ratio of variances 
+         0.5649351
