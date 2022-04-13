@@ -1,0 +1,13 @@
+Enter r: 2
+Enter c: 3
+Enter O11: 120
+Enter O12: 90
+Enter O13: 40
+Enter O21: 110
+Enter O22: 95
+Enter O23: 45
+
+	Pearson's Chi-squared test
+
+data:  O
+X-squared = 0.86404, df = 2, p-value = 0.6492
