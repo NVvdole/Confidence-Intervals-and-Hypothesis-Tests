@@ -1,0 +1,16 @@
+Enter nx: 30
+Enter x: 19
+Enter ny: 30
+Enter y: 18
+Enter CL: 0.95
+
+	2-sample test for equality of proportions with continuity correction
+
+data:  c(x, y) out of c(nx, ny)
+X-squared = 3.4762e-33, df = 1, p-value = 0.5
+alternative hypothesis: greater
+95 percent confidence interval:
+ -0.2063668  1.0000000
+sample estimates:
+   prop 1    prop 2 
+0.6333333 0.6000000
