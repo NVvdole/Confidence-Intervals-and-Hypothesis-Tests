@@ -1,0 +1,52 @@
+Enter sigmax0: 2.5
+Enter nx: 12
+Enter x1: 13
+Enter x2: 15
+Enter x3: 15
+Enter x4: 16
+Enter x5: 16
+Enter x6: 16
+Enter x7: 17
+Enter x8: 18
+Enter x9: 18
+Enter x10: 19
+Enter x11: 20
+Enter x12: 21
+Enter CL: 0.95
+
+$statistic
+Chi-Squared 
+       9.28 
+
+$parameters
+df 
+11 
+
+$p.value
+[1] 0.4039357
+
+$estimate
+variance 
+5.272727 
+
+$null.value
+variance 
+    6.25 
+
+$alternative
+[1] "less"
+
+$method
+[1] "Chi-Squared Test on Variance"
+
+$data.name
+[1] "x"
+
+$conf.int
+     LCL      UCL 
+ 0.00000 12.67811 
+attr(,"conf.level")
+[1] 0.95
+
+attr(,"class")
+[1] "htestEnvStats"
