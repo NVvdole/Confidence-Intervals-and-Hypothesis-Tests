@@ -1,10 +1,10 @@
 Enter n: 3
-Enter O1 : 50
-Enter O2 : 60
-Enter O3 : 40
-Enter E1 : 50
-Enter E2 : 50
-Enter E3 : 50
+Enter O1: 50
+Enter O2: 60
+Enter O3: 40
+Enter E1: 50
+Enter E2: 50
+Enter E3: 50
 
 	Chi-squared test for given probabilities
 
