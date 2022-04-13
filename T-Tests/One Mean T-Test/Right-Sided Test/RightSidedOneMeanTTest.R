@@ -12,7 +12,7 @@
   
   x <- c()
   for (i in 1:nx) {
-    x[i] <- as.double(readline(prompt = paste("Enter x", as.character(i), " : ", sep = "")))
+    x[i] <- as.double(readline(prompt = paste("Enter x", as.character(i), ": ", sep = "")))
   }
   
   CL <- as.double(readline(prompt = "Enter CL: "))
