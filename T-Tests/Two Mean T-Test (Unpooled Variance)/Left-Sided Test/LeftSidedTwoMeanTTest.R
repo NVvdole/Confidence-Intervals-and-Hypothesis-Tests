@@ -10,7 +10,7 @@
   
   x <- c()
   for (i in 1:nx) {
-    x[i] <- as.double(readline(prompt = paste("Enter x", as.character(i), " : ", sep = "")))
+    x[i] <- as.double(readline(prompt = paste("Enter x", as.character(i), ": ", sep = "")))
   }
   
   ny <- as.integer(readline(prompt = "Enter ny: "))
@@ -20,7 +20,7 @@
   
   y <- c()
   for (i in 1:ny) {
-    y[i] <- as.double(readline(prompt = paste("Enter y", as.character(i), " : ", sep = "")))
+    y[i] <- as.double(readline(prompt = paste("Enter y", as.character(i), ": ", sep = "")))
   }
   
   CL <- as.double(readline(prompt = "Enter CL: "))
