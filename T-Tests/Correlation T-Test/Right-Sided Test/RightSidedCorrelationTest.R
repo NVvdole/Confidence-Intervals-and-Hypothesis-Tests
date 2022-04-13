@@ -10,12 +10,12 @@
   
   x <- c()
   for (i in 1:n) {
-    x[i] <- as.double(readline(prompt = paste("Enter x", as.character(i), " : ", sep = "")))
+    x[i] <- as.double(readline(prompt = paste("Enter x", as.character(i), ": ", sep = "")))
   }
   
   y <- c()
   for (i in 1:n) {
-    y[i] <- as.double(readline(prompt = paste("Enter y", as.character(i), " : ", sep = "")))
+    y[i] <- as.double(readline(prompt = paste("Enter y", as.character(i), ": ", sep = "")))
   }
   
   CL <- as.double(readline(prompt = "Enter CL: "))
