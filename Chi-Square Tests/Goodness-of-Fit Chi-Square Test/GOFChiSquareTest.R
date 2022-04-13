@@ -10,17 +10,17 @@
   
   O <- c()
   for (i in 1:n) {
-    O[i] <- as.double(readline(prompt = paste("Enter O", as.character(i), " : ", sep = "")))
+    O[i] <- as.double(readline(prompt = paste("Enter O", as.character(i), ": ", sep = "")))
     while (O[i] <= 0.0) {
-      O[i] <- as.double(readline(prompt = paste("Enter O", as.character(i), " : ", sep = "")))
+      O[i] <- as.double(readline(prompt = paste("Enter O", as.character(i), ": ", sep = "")))
     }
   }
   
   E <- c()
   for (i in 1:n) {
-    E[i] <- as.double(readline(prompt = paste("Enter E", as.character(i), " : ", sep = "")))
+    E[i] <- as.double(readline(prompt = paste("Enter E", as.character(i), ": ", sep = "")))
     while (E[i] <= 0.0) {
-      E[i] <- as.double(readline(prompt = paste("Enter E", as.character(i), " : ", sep = "")))
+      E[i] <- as.double(readline(prompt = paste("Enter E", as.character(i), ": ", sep = "")))
     }
   }
   
