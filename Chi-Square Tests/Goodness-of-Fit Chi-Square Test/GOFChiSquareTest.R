@@ -1,6 +1,6 @@
 # File Name: GOFChiSquareTest.R
 # Author: Verginia Mae Dole
-# Date Created: 4/6/2022
+# Date Created: 4/13/2022
 
 {
   n <- as.integer(readline(prompt = "Enter n: "))
