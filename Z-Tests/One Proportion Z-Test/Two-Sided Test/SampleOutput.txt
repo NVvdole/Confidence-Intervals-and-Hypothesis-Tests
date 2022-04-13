@@ -1,0 +1,15 @@
+Enter px0: 0.42
+Enter nx: 30
+Enter x: 14
+Enter CL: 0.95
+
+	1-sample proportions test with continuity correction
+
+data:  x out of nx, null probability px0
+X-squared = 0.11084, df = 1, p-value = 0.7392
+alternative hypothesis: true p is not equal to 0.42
+95 percent confidence interval:
+ 0.2879653 0.6536010
+sample estimates:
+        p 
+0.4666667
