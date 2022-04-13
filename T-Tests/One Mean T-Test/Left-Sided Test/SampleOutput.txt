@@ -1,0 +1,26 @@
+Enter mux0: 310
+Enter nx: 12
+Enter x1: 301
+Enter x2: 298
+Enter x3: 295
+Enter x4: 297
+Enter x5: 304
+Enter x6: 305
+Enter x7: 309
+Enter x8: 298
+Enter x9: 291
+Enter x10: 299
+Enter x11: 293
+Enter x12: 304
+Enter CL: 0.95
+
+	One Sample t-test
+
+data:  x
+t = -6.8627, df = 11, p-value = 1.359e-05
+alternative hypothesis: true mean is less than 310
+95 percent confidence interval:
+     -Inf 302.2477
+sample estimates:
+mean of x 
+    299.5 
