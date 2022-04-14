@@ -1,0 +1,40 @@
+Enter n: 10
+Enter x11: 11
+Enter x21: 12
+Enter x31: 12
+Enter x41: 14
+Enter x51: 16
+Enter x61: 19
+Enter x71: 19
+Enter x81: 20
+Enter x91: 21
+Enter x101: 21
+Enter x12: 16
+Enter x22: 16
+Enter x32: 16
+Enter x42: 17
+Enter x52: 18
+Enter x62: 19
+Enter x72: 22
+Enter x82: 24
+Enter x92: 25
+Enter x102: 32
+Enter x13: 18
+Enter x23: 18
+Enter x33: 19
+Enter x43: 21
+Enter x53: 21
+Enter x63: 22
+Enter x73: 22
+Enter x83: 23
+Enter x93: 24
+Enter x103: 26
+
+Analysis of Variance Table
+
+Response: x
+          Df Sum Sq Mean Sq F value  Pr(>F)  
+Treatment  2 136.07  68.033  4.0693 0.02853 *
+Residuals 27 451.40  16.719                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
