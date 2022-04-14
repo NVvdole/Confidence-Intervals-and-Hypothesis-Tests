@@ -1,0 +1,40 @@
+Enter sigmax: 5.3
+Enter sigmay: 9.6
+Enter nx: 12
+Enter x1: 301
+Enter x2: 298
+Enter x3: 295
+Enter x4: 297
+Enter x5: 304
+Enter x6: 305
+Enter x7: 309
+Enter x8: 298
+Enter x9: 291
+Enter x10: 299
+Enter x11: 293
+Enter x12: 304
+Enter ny: 12
+Enter y1: 302
+Enter y2: 309
+Enter y3: 324
+Enter y4: 313
+Enter y5: 312
+Enter y6: 310
+Enter y7: 305
+Enter y8: 298
+Enter y9: 299
+Enter y10: 300
+Enter y11: 289
+Enter y12: 294
+Enter CL: 0.95
+
+	Two-sample z-Test
+
+data:  x and y
+z = -1.6058, p-value = 0.9458
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -10.29023        NA
+sample estimates:
+mean of x mean of y 
+ 299.5000  304.5833
