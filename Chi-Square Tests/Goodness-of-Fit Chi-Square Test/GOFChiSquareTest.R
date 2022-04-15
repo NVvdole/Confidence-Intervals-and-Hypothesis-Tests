@@ -19,7 +19,7 @@
   E <- c()
   for (i in 1:n) {
     E[i] <- as.double(readline(prompt = paste("Enter E", as.character(i), ": ", sep = "")))
-    while (E[i] <= 0.0 || E[i] >= sum(O) - sum(E)) {
+    while (E[i] <= 0.0) {
       E[i] <- as.double(readline(prompt = paste("Enter E", as.character(i), ": ", sep = "")))
     }
   }
